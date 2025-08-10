@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+.env
+.venv/
+.env.*
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Pytest / Jupyter
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Data (optional)
+data/
